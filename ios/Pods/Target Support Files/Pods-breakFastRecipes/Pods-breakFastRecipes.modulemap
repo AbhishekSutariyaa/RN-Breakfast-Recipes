@@ -1,0 +1,6 @@
+module Pods_breakFastRecipes {
+  umbrella header "Pods-breakFastRecipes-umbrella.h"
+
+  export *
+  module * { export * }
+}
